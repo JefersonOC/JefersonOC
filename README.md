@@ -1,16 +1,13 @@
-### Hi there 👋
+# Jeferson Cruz :man_technologist:
 
-<!--
-**JefersonOC/JefersonOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/jeferson-cruz-4b4abb35/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/jefersonocruz/)](https://www.instagram.com/jefersonocruz/)
 
-Here are some ideas to get you started:
+### Hey! 👋 Bem vindo ao meu perfil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Jeferson Cruz, eu sonho grande e desenvolvo tecnologias para as pessoas.
+
+ - Especialista Java e Aplicações Mobile
+ - Viciado em Python, IA e Bots
+ - Desenhista Criativo 
+ - Fundador/Dev/Lider Técnico na [BLACKFISH LABS](https://www.blackfishlabs.com.br/)
