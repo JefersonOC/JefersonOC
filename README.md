@@ -10,4 +10,4 @@ Meu nome é Jeferson Cruz, eu sonho grande e desenvolvo tecnologias para as pess
  - Especialista Java e Aplicações Mobile
  - Viciado em Python, IA e Bots
  - Desenhista Criativo 
- - Fundador/Dev/Lider Técnico na [BLACKFISH LABS](https://blackfishlabs.com.br)
+ - [BLACKFISH LABS](https://blackfishlabs.com.br)
