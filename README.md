@@ -12,4 +12,4 @@ Meu nome é Jeferson Cruz, eu sonho grande e desenvolvo tecnologias para as pess
  - Desenhista Criativo 
  - [BLACKFISH LABS](https://blackfishlabs.com.br)
  - [Bot Telegram: Minha Carteira B3](https://t.me/MinhaCarteiraB3Bot)
- - [Google Play](https://play.google.com/store/apps/dev?id=7735855091226336231)
+ - [Aplicativos na Google Play](https://play.google.com/store/apps/dev?id=7735855091226336231)
