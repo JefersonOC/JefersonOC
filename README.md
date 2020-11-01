@@ -5,7 +5,7 @@
 
 ### E ai! 👋 Bem vindo ao meu GitHub.
 
-Meu nome é Jeferson Cruz, eu sonho grande e desenvolvo tecnologias para as pessoas.
+Meu nome é Jeferson Cruz, meus objetivos são grandes e desenvolvo tecnologias para as pessoas.
 
  - Especialista Java e Aplicações Mobile
  - Viciado em Python, IA e Bots
