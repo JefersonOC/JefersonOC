@@ -11,5 +11,4 @@ Meu nome é Jeferson Cruz, meus objetivos são grandes e desenvolvo tecnologias 
  - Viciado em Python, IA e Bots
  - Desenhista Criativo 
  - [BLACKFISH LABS](https://blackfishlabs.com.br)
- - [Bot Telegram: Minha Carteira B3](https://t.me/MinhaCarteiraB3Bot)
  - [Aplicativos na Google Play](https://play.google.com/store/apps/dev?id=7735855091226336231)
