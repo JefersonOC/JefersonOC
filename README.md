@@ -8,5 +8,5 @@
 Meu nome é Jeferson Cruz, meus objetivos são grandes e eu desenvolvo tecnologias para as pessoas.
 
  - Especialista Java e Aplicações Mobile
- - Gosto de Java, Flutter/Dart, Python, Go, IA e Bots
+ - Java, Flutter/Dart, Python, Go, IA e Bots
  - Conheça meus Projetos em: [BLACKFISH LABS](https://blackfishlabs.com.br)
