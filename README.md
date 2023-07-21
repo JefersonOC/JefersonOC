@@ -6,4 +6,4 @@
 Meu Nome É Jeferson Cruz, Meus Objetivos São Grandes.
 
  - Especialista Java E Aplicações Mobile
- - Java, Kotlin, Python, Golang, Flutter/dart, Blockchain E Algorithmic Trading
+ - Java, Kotlin, Python, Golang, Flutter/Dart, Blockchain E Algorithmic Trading
