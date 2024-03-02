@@ -5,4 +5,4 @@
 
  - Especialista em Java e Aplicações Mobile (Android/iOS)
  - Algorithmic Trading com MT5 (MQL5) e Análise Quantitativa com Python
- - Blockchain & Bitcoin
+ - Blockchain & ₿ 
