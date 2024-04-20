@@ -4,5 +4,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/jefersonocruz/)](https://www.instagram.com/jefersonocruz/)
 
  - Especialista em Java e Aplicações Mobile (Android/iOS)
- - Algorithmic Trading com MT5 (MQL5) e Análise Quantitativa com Python
+ - Algorithmic Trading e Quant
  - Blockchain & ₿itcoin
