@@ -6,4 +6,3 @@
 - 📱 Mobile Apps [Android/iOS]
 - 🗠 Quant with [Python] and Algo Trading [MQL5/C++]
 - 🔗 Blockchain/Web3
-- ₿itcoin
