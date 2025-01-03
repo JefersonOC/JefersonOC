@@ -4,5 +4,5 @@
 
 - 💻 Software Engineer [Java/Kotlin]
 - 📱 Mobile Apps [Android/iOS]
-- 🗠 Quant with [Python] and Algo Trading [MQL5/C++]
+- 📈 Quant Finance with [Jupyter Notebook] and Algo Trading [Python/MQL5/C++]
 - 🔗 Blockchain/Web3
