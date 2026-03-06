@@ -4,9 +4,9 @@
 
 ```
 --------------------------------------------------------------------------------------
-💻 Software Engineer | Java & Kotlin
-📱 Mobile Development | Android & iOS
-📊 Quant Finance | Python, MQL5, C++
+💻 Software Engineer    | Java & Kotlin
+📱 Mobile Development   | Android & iOS
+📊 Quant Finance        | Python, MQL5, C++
 --------------------------------------------------------------------------------------
 🔗 Blockchain & DeFi 
 --------------------------------------------------------------------------------------
