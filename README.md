@@ -2,7 +2,7 @@
 
 ```
 --------------------------------------------------------------------------------------
-💻 Software Engineer    | AI, Java & Kotlin
+💻 Software Architect   | AI, Java & Kotlin
 📱 Mobile Development   | AI, Android & iOS
 📊 Quant Finance        | AI, Python, MQL5
 --------------------------------------------------------------------------------------
