@@ -2,10 +2,12 @@
 
 ```
 --------------------------------------------------------------------------------------
-💻 Software Architect: Java & Kotlin
-📱 Mobile Development: Android & iOS
-📊 Quant Finance: Python, MQL5
-🤖 Agentic AI
+💻 Software Architect: Java/Kotlin with Spring
+
+📱 Mobile Development: Android/iOS with Flutter
+
+📊 Quant Finance: Python, MQL5/C++
+
 🔗 Blockchain, TradFi/DeFi
 --------------------------------------------------------------------------------------
 ```
