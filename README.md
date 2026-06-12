@@ -19,11 +19,3 @@ Construo sistemas backend de alta performance, aplicações mobile multiplatafor
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ---
-
-## Contato
-
-| Canal | Link |
-|-------|------|
-| LinkedIn | https://www.linkedin.com/in/jefersonoc |
-| Email | jeferson_oc@live.com |
-| Web | blackfishlabs.com.br |
